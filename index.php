@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' AND isset($_POST["login"])) {
   <link href="assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
   <link href="assets/css/jumbotron.css" rel="stylesheet">
   <script src="assets/js/ie-emulation-modes-warning.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCW5kjBAEVoMy8M_CmSYTDWHe3F0wWlYqA&callback=initMap" async defer></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=" async defer></script>
   <script src="assets/js/jquery.min.js"></script>
   <!-- Optional, Add fancyBox for media, buttons, thumbs -->
   <link rel="stylesheet" href="assets/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
